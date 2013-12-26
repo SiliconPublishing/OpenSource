@@ -4,4 +4,6 @@ A collection of Open Source code and information from Silicon Publishing. This i
 
 Use code freely under the Apache license, but do not expect support or any assumption of liability for what you do with it.
 
+There is an explanation of installing and running a script at https://medium.com/all-things-art/fc56890a6716
+
 Contact maxdunn@siliconpublishing.com with any feedback. You can see our site at http://www.siliconpublishing.com for information about the company, our services, and our products.
